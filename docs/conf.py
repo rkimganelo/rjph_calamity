@@ -53,7 +53,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'RJ IT Support Services Guides'
+project = u'RJPH Calamity Enforcement Committee '
 copyright = u'2015, Clark'
 author = u'Clark'
 
